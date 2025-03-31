@@ -5,6 +5,7 @@
 General HR Metrics
 
 What is the total number of employees in the organization?
+
 How many employees have left the organization (attrition count)?
 What is the current attrition rate?
 •	How many employees are currently active?
