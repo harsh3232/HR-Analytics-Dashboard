@@ -3,6 +3,7 @@
 ![image alt](https://github.com/harsh3232/HR-Analytics-Dashboard/blob/d00e506016727a670244a440979232ae171d5055/Screenshot%202025-03-31%20170949.png)
 
 General HR Metrics
+
 •	What is the total number of employees in the organization?
 •	How many employees have left the organization (attrition count)?
 •	What is the current attrition rate?
